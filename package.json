@@ -1,0 +1,19 @@
+{
+  "name": "elements.io",
+  "version": "1.0.0",
+  "description": "A fun game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Game"
+  ],
+  "author": "Rishi Challa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "save": "^2.3.2",
+    "socket.io": "^2.1.0"
+  }
+}
